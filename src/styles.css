@@ -1,0 +1,21 @@
+body{
+    padding: 1%;
+}
+#header-section{
+    margin-bottom: 2.5%;
+}
+#navigation{
+    overflow: hidden;
+}
+.nav-link{
+    list-style: none;
+    float:right;
+}
+.nav-link li{
+    display: inline-block;
+    width: 6em;
+}
+#logo{
+    font-weight: bolder;
+    font-size: 2em;
+}
